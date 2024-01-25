@@ -8,13 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        QualAI
-      image:
-        filename: welcome.jpg
+        QualAI - PRIN 2022
       text: |
         <br>
-        
-        <INSERT DESCRIPTION HERE>
+        INSERT DESCRIPTION HERE
   
   - block: collection
     content:
