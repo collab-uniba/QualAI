@@ -8,7 +8,7 @@ date: 2024-02-01T14:00:00.000Z
 date_end: 2024-02-02T14:00:00.000Z
 all_day: false
 event: Kick-off Meeting
-event_url: 
+event_url: google.com
 publishDate: 2024-01-25T14:10:47.134Z
 draft: false
 featured: true
