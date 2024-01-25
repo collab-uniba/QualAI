@@ -9,9 +9,6 @@ sections:
     content:
       title: |
         QualAI - PRIN 2022
-      text: |
-        <br>
-        INSERT DESCRIPTION HERE
   
   - block: collection
     content:
@@ -28,6 +25,24 @@ sections:
       offset: 0
       order: desc
       page_type: event
+    design:
+      view: card
+      columns: '1'
+      
+  - block: collection
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
     design:
       view: card
       columns: '1'
