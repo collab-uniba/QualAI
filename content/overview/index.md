@@ -4,7 +4,6 @@ title: Project Overview
 type: page
 
 ---
-# Project Overview
 
 Welcome to the project overview page! This section provides a brief summary and key details about our exciting project.
 
