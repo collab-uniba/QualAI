@@ -6,6 +6,8 @@ title: Fabio Palomba
 first_name: Fabio
 last_name: Palomba
 
+order: 1
+
 # Username (this should match the folder name)
 authors:
   - palomba
@@ -32,7 +34,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user%253DhwcOgd4AAAAJ%2526hl%253Den
   - icon: globe
-    icon_pack: fab
+    icon_pack: fas
     link: https://fpalomba.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

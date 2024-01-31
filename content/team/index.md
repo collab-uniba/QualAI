@@ -15,7 +15,7 @@ sections:
           - Università degli Studi del Molise
           - Università degli Studi di Salerno 
           - Visitors
-      sort_by: Params.last_name
+      sort_by: Params.order
       sort_ascending: true
     design:
       show_interests: false

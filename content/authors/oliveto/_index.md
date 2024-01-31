@@ -6,6 +6,8 @@ title: Rocco Oliveto
 first_name: Rocco
 last_name: Oliveto
 
+order: 1
+
 # Username (this should match the folder name)
 authors:
   - oliveto

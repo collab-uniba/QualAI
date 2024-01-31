@@ -6,6 +6,8 @@ title: Fabio Calefato
 first_name: Fabio
 last_name: Calefato
 
+order: 3
+
 # Is this the primary user of the site?
 superuser: false
 

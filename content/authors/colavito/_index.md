@@ -6,6 +6,8 @@ title: Giuseppe Colavito
 first_name: Giuseppe
 last_name: Colavito
 
+order: 5
+
 # Is this the primary user of the site?
 superuser: true
 

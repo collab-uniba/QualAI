@@ -6,6 +6,8 @@ title: Nicole Novielli
 first_name: Nicole
 last_name: Novielli
 
+order: 1
+
 # Is this the primary user of the site?
 superuser: true
 
