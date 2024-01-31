@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nicole Novielli
+title: [Nicole Novielli](https://collab.di.uniba.it/nicole/)
 
 # Full Name (for SEO)
 first_name: Nicole
