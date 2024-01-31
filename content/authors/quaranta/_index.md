@@ -1,18 +1,17 @@
 ---
 # Display name
-title: Fabio Calefato
+title: Luigi Quaranta
 
 # Full Name (for SEO)
-first_name: Fabio
-last_name: Calefato
-
-order: 3
+first_name: Luigi
+last_name: Quaranta
+order: 4
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor 
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -27,16 +26,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fabio.calefato@uniba.it'
+    link: 'mailto:luigi.quaranta@uniba.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/fcalefato
+    link: https://twitter.com/LuigiQuaranta92
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.it/citations?user%253Dn_XWRkoAAAAJ%2526hl%253Den
+    link: https://scholar.google.it/citations?user%253Dh7dGhS8AAAAJ%2526hl%253Dit
   - icon: globe
     icon_pack: fas
-    link: https://collab.di.uniba.it/fabio/
+    link: https://collab.di.uniba.it/luigi-quaranta/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,4 +53,4 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Università degli Studi di Bari
----
+--- 

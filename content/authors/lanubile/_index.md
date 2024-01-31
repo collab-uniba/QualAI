@@ -55,5 +55,3 @@ highlight_name: false
 user_groups:
   - Università degli Studi di Bari
 ---
-
-... 
