@@ -10,7 +10,7 @@ last_name: Novielli
 superuser: true
 
 # Role/position
-role: Associate Professor (Principal Investigator)
+role: Associate Professor (PI)
 
 # Organizations/Affiliations
 organizations:
