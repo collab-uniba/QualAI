@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nicole Novielli
+title: Giuseppe Colavito
 
 # Full Name (for SEO)
-first_name: Nicole
-last_name: Novielli
+first_name: Giuseppe
+last_name: Colavito
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Professor (PI)
+role: PhD Student 
 
 # Organizations/Affiliations
 organizations:
@@ -25,16 +25,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nicole.novielli@uniba.it'
+    link: 'mailto:giuseppe.colavito@uniba.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/NicoleNovielli
+    link: https://twitter.com/colavito_g
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user%253DjrZR0gMAAAAJ%2526hl%253Dit
   - icon: globe
     icon_pack: fas
-    link: https://collab.di.uniba.it/nicole/
+    link: https://peppocola.github.io/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,5 +53,3 @@ highlight_name: false
 user_groups:
   - Università degli Studi di Bari
 ---
-
-... 

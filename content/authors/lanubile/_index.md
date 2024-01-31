@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nicole Novielli
+title: Filippo Lanubile
 
 # Full Name (for SEO)
-first_name: Nicole
-last_name: Novielli
+first_name: Filippo
+last_name: Lanubile
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor (PI)
+role: Full Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -25,16 +25,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nicole.novielli@uniba.it'
+    link: 'mailto:filippo.lanubile@uniba.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/NicoleNovielli
+    link: https://twitter.com/lanubile
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user%253DWM8zksIAAAAJ%2526hl%253Dit
   - icon: globe
     icon_pack: fas
-    link: https://collab.di.uniba.it/nicole/
+    link: https://collab.di.uniba.it/lanubile/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

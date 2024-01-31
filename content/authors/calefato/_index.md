@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nicole Novielli
+title: Fabio Calefato
 
 # Full Name (for SEO)
-first_name: Nicole
-last_name: Novielli
+first_name: Fabio
+last_name: Calefato
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor (PI)
+role: Associate Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -25,16 +25,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nicole.novielli@uniba.it'
+    link: 'mailto:fabio.calefato@uniba.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/NicoleNovielli
+    link: https://twitter.com/fcalefato
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.it/citations?user%253Dn_XWRkoAAAAJ%2526hl%253Den
   - icon: globe
     icon_pack: fas
-    link: https://collab.di.uniba.it/nicole/
+    link: https://collab.di.uniba.it/fabio/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
