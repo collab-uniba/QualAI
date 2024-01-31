@@ -10,7 +10,8 @@ sections:
       title: |
         QualAI - PRIN 2022
       text: |
-        The QualAI project aims to develop a new approach to the study of artificial intelligence (AI) that combines the analysis of the technical aspects of AI with the study of the social and ethical implications of AI systems.
+        Continuous Quality Improvement of AI-based Systems
+
   
   - block: collection
     content:
